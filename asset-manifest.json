@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Latracal-Assignment/static/css/main.939f367d.css",
+    "main.js": "/Latracal-Assignment/static/js/main.1e7992b9.js",
+    "index.html": "/Latracal-Assignment/index.html",
+    "main.939f367d.css.map": "/Latracal-Assignment/static/css/main.939f367d.css.map",
+    "main.1e7992b9.js.map": "/Latracal-Assignment/static/js/main.1e7992b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939f367d.css",
+    "static/js/main.1e7992b9.js"
+  ]
+}
